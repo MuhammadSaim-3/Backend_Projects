@@ -19,9 +19,9 @@
 
 <h2>Packages Used</h2>
 <li>
-  <ol>shortId for generating shortid of long url</ol>
-  <ol>jwt for token based session management</ol>
-  <li>
+  <ul>shortId for generating shortid of long url</ul>
+  <ul>jwt for token based session management</ul>
+  </li>
 
 
 
